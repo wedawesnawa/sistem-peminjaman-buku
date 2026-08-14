@@ -1,14 +1,14 @@
-# Sistem Peminjaman Buku
+# Library Book Borrowing System
 
 ![preview](/public/Video%20Project%2012.gif)
 
 ## About
 
-**Sistem Peminjaman Buku** adalah aplikasi berbasis web yang dirancang untuk membantu pengelolaan proses peminjaman buku pada perpustakaan secara digital.
+Library Book Borrowing System is a web-based application designed to digitize and simplify the book borrowing process in an offline library.
 
-Sistem ini memiliki dua role utama, yaitu **Admin** dan **User**. Admin dapat mengelola data buku, kategori, peminjaman, pengguna, serta denda. Admin juga dapat melakukan aktivasi akun pengguna baru dan memblokir pengguna yang memiliki keterlambatan atau denda.
+The system provides two main roles: Admin and User. Administrators can manage books, categories, users, borrowings, and fines. Administrators can also activate new user accounts and block users who have overdue books or outstanding fines.
 
-Aplikasi ini dibuat untuk membantu perpustakaan dalam mengurangi proses pencatatan manual sehingga pengelolaan peminjaman buku menjadi lebih **terstruktur, efisien, dan terdigitalisasi**.
+This system is designed to reduce manual record-keeping and help library staff manage borrowing activities in a more efficient, organized, and centralized manner.
 
 ---
 
@@ -16,27 +16,28 @@ Aplikasi ini dibuat untuk membantu perpustakaan dalam mengurangi proses pencatat
 
 ### Admin
 
-Admin memiliki akses untuk:
+Administrators can:
 
-* Mengelola data buku
-* Mengelola kategori buku
-* Mengelola data pengguna
-* Mengelola data peminjaman
-* Mengelola denda
-* Mengaktivasi akun pengguna baru
-* Memblokir pengguna yang memiliki keterlambatan atau denda
+* Manage books
+* Manage book categories
+* Manage users
+* Manage book borrowings
+* Manage fines
+* Activate new user accounts
+* Block users with overdue books or outstanding fines
+* Monitor borrowing activities
 
 ### User
 
-User dapat:
+Users can:
 
-* Melakukan registrasi akun
-* Melakukan login
-* Melihat buku yang tersedia
-* Melakukan peminjaman buku
-* Melihat daftar peminjaman
-* Melihat status peminjaman
-* Melihat informasi denda
+* Register an account
+* Log in to the system
+* View available books
+* Borrow books
+* View borrowing history
+* Check borrowing status
+* View fine information
 
 ---
 
@@ -117,7 +118,7 @@ Make sure **Docker Desktop is running** before continuing.
 Clone this repository:
 
 ```bash
-git clone <URL_REPOSITORY>
+git clone https://github.com/wedawesnawa/sistem-peminjaman-buku.git
 ```
 
 Navigate to the project directory:
