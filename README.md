@@ -118,7 +118,7 @@ Make sure **Docker Desktop is running** before continuing.
 Clone this repository:
 
 ```bash
-git clone https://github.com/wedawesnawa/sistem-peminjaman-buku.git
+git clone https://github.com/gudang-web/Sistem-Peminjaman-Buku.git
 ```
 
 Navigate to the project directory:
