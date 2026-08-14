@@ -397,9 +397,9 @@ git push origin feature/improvement
 6. Create a Pull Request.
 
 ### Contributors
+* [@bgsptr](https://github.com/bgsptr)
+* [@wedawesnawa](https://github.com/wedawesnawa)
 
-* [@wedawesnawa](github.com/wedawesnawa)
-* **@contributor** — Contributor
 
 ---
 
